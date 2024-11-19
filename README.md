@@ -1,4 +1,4 @@
-his is a .NET 7 Console Application that generates daily log files organized by month and year. The application is designed to be run via a task scheduler, logging the start and end times of its execution.
+This is a .NET 7 Console Application that generates daily log files organized by month and year. The application is designed to be run via a task scheduler, logging the start and end times of its execution.
 
 Features
 Daily Log Files: Creates a log file for the current day with a timestamp for when the application starts and ends.
